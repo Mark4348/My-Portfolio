@@ -1,0 +1,15 @@
+
+#banner { margin: 15px 0px 15px 0px;}
+#info-box {height: 345px;}
+#Mark-pic {max-width: 360px; max-height: 360px;}
+#Pic-and-radius {margin:0px 0px 10px}
+#quotebox {margin-bottom: 15px;}
+.card-header { font-size: large ;
+#SocialBox { padding-top: 20px;}
+#EmailCard { padding-top: 20px;}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    
+}
