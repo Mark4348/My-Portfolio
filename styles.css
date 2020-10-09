@@ -20,6 +20,10 @@
     margin:0px 0px 10px
 }
 
+#socialMediaLinks {
+    text-align: center;
+}
+
 #quotebox {
     margin-bottom: 15px;
 }
@@ -36,6 +40,7 @@
     display: flex;
     justify-content: center;
     padding: 20px;
+
 }
 .card-img-top {
 width: 100%;
@@ -47,4 +52,8 @@ object-fit: cover;
 font-size: xx-large;
 color: white;
 text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+@media only screen and (max-width: 768px) {
+
 }
