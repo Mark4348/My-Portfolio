@@ -1,15 +1,50 @@
 
-#banner { margin: 15px 0px 15px 0px;}
-#info-box {height: 345px;}
-#Mark-pic {max-width: 360px; max-height: 360px;}
-#Pic-and-radius {margin:0px 0px 10px}
-#quotebox {margin-bottom: 15px;}
-.card-header { font-size: large ;
-#SocialBox { padding-top: 20px;}
-#EmailCard { padding-top: 20px;}
+#banner { 
+    margin: 15px 0px 15px 0px;
+}
+
+#info-box {
+    height: 345px;
+}
+.card-header {
+    background-image: url("./images/KeithHaringPrint.png");
+    object-fit: cover;
+    font-size: large;
+    
+}
+#Mark-pic 
+{max-width: 360px; max-height: 360px;
+}
+
+#Pic-and-radius {
+    margin:0px 0px 10px
+}
+
+#quotebox {
+    margin-bottom: 15px;
+}
+
+#SocialBox { 
+    padding-top: 20px;
+}
+
+#EmailCard { 
+    padding-top: 20px;
+}
 
 .flex-container {
     display: flex;
     justify-content: center;
-    
+    padding: 20px;
+}
+.card-img-top {
+width: 100%;
+height: 20vw;
+object-fit: cover;
+}
+
+.headerText {
+font-size: xx-large;
+color: white;
+text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
